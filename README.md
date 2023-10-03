@@ -1,6 +1,6 @@
 # Networking_Project
-This is a networking project which provides the desired ip addresses to the customer.
-in this networking project my aim is to provide ip addresses from Class A, B, C from networking.
+This is my networking project which provides the desired ip addresses to the customer.
+In this networking project I aim to provide ip addresses from Class A, B, C from networking.
 It gives the control to user to choose an ip to be of internet or intranet.
 It also gives user the freedom to generate random ip's or generate ip's of his desired choice by choosing the ocetet configurations.
 a user can generate as many ip's he want until he is satisfyied with his desired count.
